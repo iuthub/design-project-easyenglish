@@ -2,9 +2,10 @@ easyenglish
 
  Learn English and prepare IELTS with us!
  
+ https://easyenglishgroup.000webhostapp.com
+ 
 https://github.com/iuthub/design-project-easyenglish
 
-https://github.com/u1610021/EasyEnglishProject
 
 Team members:
 
