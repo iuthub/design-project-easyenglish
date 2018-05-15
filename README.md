@@ -1,12 +1,21 @@
 easyenglish
+
  Learn English and prepare IELTS with us!
+ 
 https://github.com/iuthub/design-project-easyenglish
+
 https://github.com/u1610021/EasyEnglishProject
+
 Team members:
+
 Yunus Utepbergenov                  u1610253
+
 Alibek Begnaev                             u1610019
+
 Alisher Karimov                            u1610021
+
 Tolib Rakhmonov                         u1610243
+
 
 Description
 EasyEnglish is the free blog which can teach you English and prepare for IELTS test online to get higher scores. We create special tactics to learn English quick and ideal. This website contains highly rated tips, video lessons, and examples for IELTS preparation. These materials token from experienced IELTS experts all over the world.
